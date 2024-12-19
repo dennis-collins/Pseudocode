@@ -2,6 +2,22 @@
 // Skriv din pseudokod innanför nedanstående kommentarsblock
 /*
 
+START
+
+SET summa to 0
+SET vänner to 0
+SET dricks to 0
+SET varje to 0
+
+INPUT summa
+INPUT vänner
+INPUT dricks
+
+CALCULATE varje = summa + (summa * dricks) / vänner
+
+OUTPUT varje
+
+END
 
 */
 
